@@ -1,6 +1,6 @@
 # Filename:      coinCalculation.py
 # Author:        Kal Kolberg(lando2@gmail.com)
-# Copywrite:     GPL 2.0
+# Copywrite:     (c)2011 Kal Kolberg. GPL 2.0
 # Description:   Program figures out the maximum amount possible to make without
 #                being able to make change for one dollar
 # Input:         <none>
